@@ -23,7 +23,6 @@ The analysis utilized the following databases and sources:
   - **Description:** This article provides data on DNA cleavage by DNases, which is essential for understanding molecular interactions and DNA structure.
   - **URL:** [PNAS Article](https://www.pnas.org/doi/full/10.1073/pnas.1216822110#supplementary-materials)
 
-## Data Usage
 
 These datasets were used to explore and compare the physicochemical properties of regulatory genomic sequences, including their susceptibility to ultrasonic cleavage and effects on DNA structure. Each data source was integrated to conduct a comprehensive analysis, including visualization and statistical processing of results.
 
